@@ -1,4 +1,4 @@
-Working on Horiseon website for client to make it more Accessible. Following changes had been made to the code.
+Working on Horiseon website for client to make it more Accessible. Following changes had been made to the code to improve for Assistance:
 
 Changed first div to the header.
 Fixed link to the Search Engine Optimization.
