@@ -14,3 +14,4 @@ Moved font-family to the body CSS tag to reduce duplication
 Added tile to the html to display in the tab
 Did proper indentation of code in HTML file.
 Added a link to the h1 header to link to home page
+Deployed to live URL https://rpliszka1987.github.io/urban-octo-telegram-assignment/
