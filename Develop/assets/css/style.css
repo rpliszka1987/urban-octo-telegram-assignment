@@ -22,8 +22,14 @@ body {
     font-size: 48px;
 }
 
+.header h1 a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 .header h1 .seo {
     color: #d9dcd6;
+    
 }
 
 /* Styled the navigation bar  */
